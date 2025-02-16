@@ -1,7 +1,7 @@
 # NetworkEmulator
 Developed a Network Emulator of a star-wired LAN Topology
 #####################################################
-# Developped by Soumya Tejaswi Vadlamani and Sai Madhavi Gujju
+# Developped by Soumya Tejaswi Vadlamani
 #
 #####################################################
 
